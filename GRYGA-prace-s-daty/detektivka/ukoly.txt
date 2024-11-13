@@ -1,0 +1,43 @@
+Zahrajte si na informaèní detektivy a zjistìte požadovaná fakta o následujících souborech:
+1. Soubor divny.txt:
+    a) Jaké má soubor pøiøazeny atributy a kdy byl vytvoøen i zmìnìn?
+    Skrytý, jen pro ètení; vytvoøen : støeda ?6. ?listopadu ?2024, ??11:00:37; zmìnìn : ?pátek ?19. ?øíjna ?2012, ??22:25:32
+    b) V jakém znakovém kódování je uložen?
+    Unicode UTF-8
+    c) V jakém jazyce je napsán jeho obsah?
+    V Japonštinì
+    d) O èem text pojednává a z jakého internetového zdroje pochází (ideálnì uveïte pøesnou URL adresu)?
+    Text je o Praze; url : wikipedia.org
+    
+2. Soubor city.jpg:
+    a) Jaké rozmìry má tato fotka (v pixelech)?
+    1366 x 768
+    b) Jak se jmenuje mìsto na obrázku?
+    Nairobi
+    c) Kde se toto mìsto pøesnì nachází (uveïte stát i kontinent)?
+    Kenya(Keòa)-Afrika
+    d) Zjistìte aspoò GPS souøadnice nejvyšší budovy na fotce?
+    1°18'0.31” j.š.
+    36°48'46.86” v.d.
+    e) Co se v této budovì nachází?
+    Kanceláøe spoleènosti Britam Holdings
+    
+3. Soubor person.jpg:
+    a) Jaké jsou bitová hloubka a rozlišení tohoto obrázku?
+    24bitù, 72dpi
+    b) Kdo je na této fotografii (jméno, pøíjmení, národnost, povolání)?
+    Katalin Nováková,z Maïarska, Politik, právník
+    c) Uveïte adresu aspoò jednoho profilu této osoby na sociálních sítích.
+    https://www.instagram.com/katalin.novak/?hl=cs
+    d) Najdìte na internetu co nejaktuálnìjší èlánek v èeském jazyce, v nìmž je jméno této osoby zmínìno.
+    https://www.irozhlas.cz/zpravy-svet/madarska-prezidentka-katalin-novakova-abdikuje-udelala-jsem-chybu-uvedla-ve-svem_2402101817_jar
+    
+4. Soubor flag.png:
+    a) Jaká jsou bitová hloubka a rozmìry tohoto obrázku?
+    Bit hloubka 8px; 580 x 387
+    b) Vlajka kterého státu je na obrázku?
+     Bhútán
+    c) Najdìte bližší informace o tomto státu: rozlohu, poèet obyvatel, hlavní mìsto
+    38 394 km2;741 700obyvatel;
+    d) Zjistìte pøesné barvy (RGB v desítkové i šestnáctkové soustavì) obou trojúhelníkových blokù v pozadí vlajky.   
+        RGB : 255,213,32 ; HEX : 255,78,18
